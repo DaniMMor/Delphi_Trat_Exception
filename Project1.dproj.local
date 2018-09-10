@@ -5,10 +5,11 @@
     <Transaction>2018/08/17 22:16:57.000.789,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2018/08/26 15:49:30.000.321,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2018/09/09 20:20:34.573,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/09/09 20:21:49.976,C:\Users\w7\Documents\GitHub\Delphi_Trat_Exception\Unit1.pas=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2018/09/09 20:21:49.976,C:\Users\w7\Documents\GitHub\Delphi_Trat_Exception\Unit1.dfm=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/09/09 20:21:49.976,C:\Users\w7\Documents\GitHub\Delphi_Trat_Exception\Unit1.pas=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2018/09/09 20:21:53.185,C:\Users\w7\Documents\GitHub\Delphi_Trat_Exception\Project1.dproj=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2018/09/09 20:27:34.955,=C:\Users\w7\Documents\GitHub\Delphi_Trat_Exception\Unit2.pas</Transaction>
     <Transaction>2018/09/09 20:27:59.839,C:\Users\w7\Documents\GitHub\Delphi_Trat_Exception\TratException.pas=C:\Users\w7\Documents\GitHub\Delphi_Trat_Exception\Unit2.pas</Transaction>
+    <Transaction>2018/09/09 20:30:42.804,C:\Users\w7\Documents\GitHub\Delphi_Trat_Exception\uException.pas=C:\Users\w7\Documents\GitHub\Delphi_Trat_Exception\TratException.pas</Transaction>
   </Transactions>
 </BorlandProject>
